@@ -1,0 +1,20 @@
+<Project>
+	<PropertyGroup>
+		<Version>0.0.0</Version>
+		<FileVersion>0.0.0</FileVersion>
+		<AssemblyVersion>0.0.0</AssemblyVersion>
+	</PropertyGroup>
+	
+	<PropertyGroup>
+		<Copyright>Copyright © limeniye 2022</Copyright>
+		<Authors>limeniye</Authors>
+		<RepositoryUrl>https://github.com/limeniye/needrefactoring</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<LangVersion>latest</LangVersion>
+		<Nullable>enable</Nullable>
+		<NoWarn>$(NoWarn);NU1008;NU1701</NoWarn>
+	</PropertyGroup>
+</Project>
